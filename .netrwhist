@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/tmp_amd/adams/export/adams/1/pchu161/aos-2013/libs'
+let g:netrw_dirhist_2='/tmp_amd/adams/export/adams/1/pchu161/aos-2013/apps/sos/src'
+let g:netrw_dirhist_3='/tmp_amd/adams/export/adams/1/pchu161/os161/os161-1.11/testbin/bigfile'
+let g:netrw_dirhist_4='/tmp_amd/adams/export/adams/1/pchu161/aos-2013/libs'
+let g:netrw_dirhist_5='/tmp_amd/adams/export/adams/1/pchu161/aos-2013/libs/libclock'
+let g:netrw_dirhist_6='/tmp_amd/adams/export/adams/1/pchu161/aos-2013/libs/libsel4elf/include'
+let g:netrw_dirhist_7='/tmp_amd/adams/export/adams/1/pchu161/aos-2013/apps/sos'
